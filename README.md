@@ -1,3 +1,5 @@
+location : -5282.01, -5185.07, 1813.4
+
 shell_hospital - built with the SwisserAI Interior Builder
 ====================================================
 
