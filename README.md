@@ -29,3 +29,7 @@ NOTES
   only contains your custom shell, so it stays small.
 - Want to change the layout? Open your saved design in the SwisserAI
   Interior Builder, edit it and rebuild.
+
+
+![MLO-interior-pharmacy
+Preview](Screenshot_9-11-2026_23308.jpeg)
